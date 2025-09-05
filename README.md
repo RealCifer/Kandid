@@ -1,2 +1,2 @@
 # Kandid
-Linkbird.ai Platform Frontend and UI developement 
+Linkbird.ai Platform Frontend and UI development 
