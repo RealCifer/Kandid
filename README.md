@@ -1,0 +1,2 @@
+# Kandid
+Kandid Platform UI
